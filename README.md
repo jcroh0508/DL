@@ -1,4 +1,4 @@
-## Price prediction of e-commerce products through Internet sentiment analysis
+## Price prediction of e-commerce products through Internet sentiment analysis (PAPER REVIEW)
 1. study of the related literature
 2. research method
 3. experimental results
