@@ -14,14 +14,17 @@ The contribution of this paper is to propose a new forecasting model for the pri
     * traditional regression analysis + normality
     * autocorrelated + heteroscedasticity tests
 
-It showed better result when they combined two prediction models, which made it complementary. Hybrid models showed better result
-Combining:
+It showed better result when they combined two prediction models, which made it complementary. Hybrid models showed better result. Combining:
 * Mean Absolute Error
 * MSE
 * Mean Absolute Percentage Error (MAPE)
 * Root Mean Squared Error (RMSE)
 
-
+### 3. Research method
+3.1. **Price preciction algorithms**
+1. Moving average (MA) model
+2. Autoregressive (AR) model
+3. Autoregressive moving average (AMRA) model
 
 
 
