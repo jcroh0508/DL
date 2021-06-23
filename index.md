@@ -1,6 +1,6 @@
-# Price prediction of e-commerce products through Internet sentiment analysis 요약
+## Price prediction of e-commerce products through Internet sentiment analysis 요약
 
-## Introduction
+### Introduction
 The contribution of this paper is to propose a new forecasting model for the price of e-commerce products.
 Focus: _forecasting the price of house property and electronic products using sentiment news from Baidu_
 
