@@ -1,9 +1,12 @@
 ## Price prediction of e-commerce products through Internet sentiment analysis
-* 프로젝트를 진행하기 위한 위 페이퍼의 내 나름의 요약
+1. study of the related literature
+2. research method
+3. experimental results
+4. system architecture
 
 ### 1. Introduction
 The contribution of this paper is to propose a new forecasting model for the price of e-commerce products.
-    * forecasting the price of house property and electronic products using sentiment news from Baidu
+* Focus: forecasting the price of house property and electronic products using sentiment news from Baidu
 
 ### 2. Related literature
 * The team tried to use different models to test to predict different prices
