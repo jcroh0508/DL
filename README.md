@@ -6,10 +6,13 @@
 
 ### 1. Introduction
 The contribution of this paper is to propose a new forecasting model for the price of e-commerce products.
-* **Focus: forecasting the price of house property and electronic products using sentiment news from Baidu**
-
 ```markdown
+* **Focus: forecasting the price of house property and electronic products using sentiment news from Baidu**
+```
+
+
 ### 2. Related literature
+```markdown
 * The team tried to use different models to test to predict different prices
 * **Traditional economic methods (e.g. price of egg)**
     * traditional regression analysis + normality
@@ -22,8 +25,9 @@ It showed better result when they combined two prediction models, which made it 
 * Root Mean Squared Error (RMSE)
 ```
 
-```markdown
+
 ### 3. Research method
+```markdown
 3.1. **Price preciction algorithms**
 1. Moving average (MA) model
 2. Autoregressive (AR) model
