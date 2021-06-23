@@ -20,13 +20,15 @@ It showed better result when they combined two prediction models, which made it 
 * MSE
 * Mean Absolute Percentage Error (MAPE)
 * Root Mean Squared Error (RMSE)
+```
 
+```markdown
 ### 3. Research method
 3.1. **Price preciction algorithms**
 1. Moving average (MA) model
 2. Autoregressive (AR) model
 3. Autoregressive moving average (AMRA) model
-
+```
 
 
 
