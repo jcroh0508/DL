@@ -14,12 +14,29 @@ The contribution of this paper is to propose a new forecasting model for the pri
     * traditional regression analysis + normality
     * autocorrelated + heteroscedasticity tests
 
-It showed better result when they combined two prediction models, which made it complementary.
+It showed better result when they combined two prediction models, which made it complementary. Hybrid models showed better result
 Combining:
 * Mean Absolute Error
 * MSE
 * Mean Absolute Percentage Error (MAPE)
 * Root Mean Squared Error (RMSE)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
