@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+# Price prediction of e-commerce products through Internet sentiment analysis 요약
+
+## Introduction
+The contribution of this paper is to propose a new forecasting model for the price of e-commerce products.
+Focus: _forecasting the price of house property and electronic products using sentiment news from Baidu_
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/jcroh0508/DL/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
