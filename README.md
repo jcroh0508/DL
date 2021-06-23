@@ -7,7 +7,8 @@ The contribution of this paper is to propose a new forecasting model for the pri
 
 ### 2. Related literature
 -  The team tried to use different models to test to predict different prices
--  Traditional economic methods -> 
+-  Traditional economic methods
+    - 
 
 
 
